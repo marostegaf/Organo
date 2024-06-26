@@ -1,0 +1,42 @@
+.footer {
+    background: #6278F7;
+    color: #FFF;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer ul {
+    padding-left: 0;
+}
+
+.footer ul li {
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+}
+
+.footer p {
+    font-size: 20px;
+    font-weight: 200; 
+}
+
+@media (max-width: 1000px) {
+    .footer {
+        flex-direction: column;
+        padding: 40px;
+    }
+    
+    .footer ul li {
+        display: inline-block;
+        margin-right: 32px;
+    }
+
+    .footer p {
+        font-size: 15px;
+    }
+}
