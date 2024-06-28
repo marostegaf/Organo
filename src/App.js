@@ -35,17 +35,33 @@ function App() {
       id: uuidv4(),
       favorito: false,
       nome: "Marcos Marostega",
-      cargo: "D #014",
+      cargo: "Front-End Developer",
       imagem: "http://github.com/marostegaf.png",
       equipe: equipes[0].nome
     },
     {
       id: uuidv4(),
       favorito: false,
-      nome: "Leonardo Formigon",
-      cargo: "Bode #014",
-      imagem: "http://github.com/LFormigon.png",
-      equipe: equipes[0].nome
+      nome: "Marcos Marostega",
+      cargo: "Back-End Developer",
+      imagem: "http://github.com/marostegaf.png",
+      equipe: equipes[1].nome
+    },
+    {
+      id: uuidv4(),
+      favorito: false,
+      nome: "Marcos Marostega",
+      cargo: "Full-Stack Developer",
+      imagem: "http://github.com/marostegaf.png",
+      equipe: equipes[2].nome
+    },
+    {
+      id: uuidv4(),
+      favorito: false,
+      nome: "Marcos Marostega",
+      cargo: "Data Scientist",
+      imagem: "http://github.com/marostegaf.png",
+      equipe: equipes[3].nome
     }
   ]
 
