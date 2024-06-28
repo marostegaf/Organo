@@ -22,4 +22,5 @@
     padding: 24px 7px;
     box-sizing: border-box;
     outline: 2px solid #6278F7;
+    cursor: pointer;
 }

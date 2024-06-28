@@ -1,14 +1,12 @@
 .equipe {
     text-align: center;
     padding: 32px;
-    background-image: url('./fundo.png');
-    background-size: cover;
-    background-repeat: no-repeat;
+    position: relative;
 }
 
 .equipe h3 {
     font-size: 32px;
-        border-bottom: 4px solid;
+    border-bottom: 4px solid;
     display: inline-block;
     padding-bottom: 8px;
 }
@@ -18,4 +16,12 @@
     justify-content: space-around;
     margin-top: 32px;
     flex-wrap: wrap;
+}
+
+.input-color {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    width: 45px;
+    border: none;
 }

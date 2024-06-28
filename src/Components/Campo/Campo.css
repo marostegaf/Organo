@@ -1,0 +1,46 @@
+.campo {
+    margin: 24px 0;
+}
+
+.campo label {
+    display: block;
+    margin-bottom: 8px;
+    margin-left: 4px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.campo input {
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 30px #0000000f;
+    border: none;
+    border-radius: 10px;
+    font-size: 17px;
+    padding: 24px 4px;
+    width: 100%;
+    min-width: 30vw;    
+    box-sizing: border-box;
+    outline: 2px solid #6278F7;
+}
+
+.campo-color label {
+    margin-bottom: 8px;
+    margin-left: 4px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.campo-color input {
+    text-align: center;
+    background-color: #F2F2F2;
+    box-shadow: 10px 10px 30px #0000000f;
+    outline: none;
+    font-size: 17px;
+    padding: 0;
+    min-width: 0;
+    width: 45px;
+    height: 35px;
+    box-sizing: border-box;
+    cursor: pointer;
+    
+}
