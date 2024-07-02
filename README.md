@@ -1,6 +1,6 @@
 <h2 align="center"> Organo </h2>
 <h3 align="center"!>
-<br>Organize Equipes<br/>
+<br>Organize suas equipes agora mesmo!<br/>
 </h3>
 
 ### ![image](https://github.com/marostegaf/Organo/assets/103620713/dd322992-f882-49a8-a917-5e452e11f31d)
